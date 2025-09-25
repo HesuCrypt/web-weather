@@ -9,10 +9,10 @@ const Education = () => {
       location: 'Kaunlaran, Campus',
       period: '2022 - Present',
       gwa: '92.48',
-      status: 'Current',
+      status: 'Completed',
       description: 'Pursuing comprehensive education in information technology with focus on web development, software engineering, and database management.',
       achievements: [
-        'Maintained Dean\'s List status',
+        'Ambassador Award',
         'Completed capstone project with high distinction'
       ]
     },

@@ -68,13 +68,13 @@ const Contact = () => {
     {
       icon: Facebook,
       label: 'Facebook',
-      href: '#',
+      href: 'https://www.facebook.com/louisse.dominique.bertillo.2025',
       color: 'hover:bg-blue-500'
     },
     {
       icon: Instagram,
       label: 'Instagram',
-      href: '#',
+      href: 'https://www.instagram.com/louissebaja/',
       color: 'hover:bg-gradient-to-r hover:from-purple-500 hover:to-pink-500'
     }
   ];
